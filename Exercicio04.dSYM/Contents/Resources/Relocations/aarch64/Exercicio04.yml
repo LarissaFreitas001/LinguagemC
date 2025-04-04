@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/user/Documents/Ling1C/output/Exercicio04'
+relocations:     []
+...
